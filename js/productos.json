@@ -1,0 +1,38 @@
+[
+    {
+        "id": "geometria",
+        "titulo": "Geometría",
+        "imagen": "../img/cursos/Cgeometria.png",
+        "precio": 520
+    },
+    {
+        "id": "algebra",
+        "titulo": "Álgebra",
+        "imagen": "../img/cursos/Calgebra.png",
+        "precio": 550
+    },
+    {
+        "id": "aritmetica",
+        "titulo": "Aritmética",
+        "imagen": "../img/cursos/Caritmetica.png",
+        "precio": 575
+    },
+    {
+        "id": "trigonometria",
+        "titulo": "Trigonometría",
+        "imagen": "../img/cursos/Ctrigonometria.png",
+        "precio": 580
+    },
+    {
+        "id": "razmatematico",
+        "titulo": "Raz. Matemático",
+        "imagen": "../img/cursos/Crm.png",
+        "precio": 600
+    },
+    {
+        "id": "fisica",
+        "titulo": "Física",
+        "imagen": "../img/cursos/Cfisica.png",
+        "precio": 545
+    }
+]
